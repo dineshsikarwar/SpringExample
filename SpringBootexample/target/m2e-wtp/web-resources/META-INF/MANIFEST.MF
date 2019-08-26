@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootexample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sen-sei
+Implementation-Vendor-Id: com.springboot.example
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootex
+ ample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
