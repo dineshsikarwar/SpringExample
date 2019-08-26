@@ -17,9 +17,9 @@ import javax.crypto.spec.SecretKeySpec;
 import com.sun.org.apache.xml.internal.security.utils.Base64;
 
 public class Test2 {
-	private static final String algorithm = "AES";
-	private static final String cipherPadding = "AES/CBC/PKCS5PADDING";
-	private static final int keySize = 128;
+	//private static final String algorithm = "AES";
+	//private static final String cipherPadding = "AES/CBC/PKCS5PADDING";
+	//private static final int keySize = 128;
 
 	private static final String keyAsHexString = "2CB719C5DF693CA2C626EB1A02E9F2BD";
 
