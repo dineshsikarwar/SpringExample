@@ -20,7 +20,7 @@ public class Test2 {
 	private static final String algorithm = "AES";
 	private static final String cipherPadding = "AES/CBC/PKCS5PADDING";
 	private static final int keySize = 128;
-
+        private static final String name="dinesh";
 	private static final String keyAsHexString = "2CB719C5DF693CA2C626EB1A02E9F2BD";
 
 	private static String plainText = "{\"billCategory\":\"17\",\"channelId\":\"643\",\"checksum\":\"887411b79b862c72159fb9897e481f0abdcd16afdf56a42d9475d945ff46469c\",\"encToken\":\"M0HeXjNos55n8AdbXnyl/Q==\"}";
