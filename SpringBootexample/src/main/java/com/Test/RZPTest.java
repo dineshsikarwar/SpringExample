@@ -9,6 +9,7 @@ public class RZPTest {
 	public static void main(String[] args) throws Exception {
 		Order o=new Order();
 		System.out.println(o);
+                string name="dinesh";
 		String json=new ObjectMapper().writeValueAsString(o);
 		System.out.println(json);
 		JSONObject j=new JSONObject(json);
