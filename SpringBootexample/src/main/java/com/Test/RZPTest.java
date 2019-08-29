@@ -8,7 +8,7 @@ public class RZPTest {
 	
 	public static void main(String[] args) throws Exception {
 		Order o=new Order();
-	    String name="din"; 
+	    String name="din";  
 		System.out.println(o);
 		String json=new ObjectMapper().writeValueAsString(o);
 		System.out.println(json);
